@@ -1,0 +1,7 @@
+Rusult
+
+$ bash -x Random1.sh
++ (( RAD=RANDOM%10 ))
++ echo 7
+7
+
